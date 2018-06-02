@@ -37,7 +37,7 @@
 //
 //      Project:           zpdaxrom
 //      File:              zpdaxrom.v
-//      Date:              Вс, 3 июн 2018 01:00:05 CST
+//      Date:              Вс, 3 июн 2018 01:41:59 CST
 //      Version:           2.1
 //      Targeted Family:   LCMXO2-7000HC
 //
@@ -608,7 +608,7 @@ wb_ebr_ctrl
 #(
 .SIZE(4096),
 .EBR_WB_DAT_WIDTH(32),
-.INIT_FILE_NAME("C:/Users/sash/Work/tmp/zpdaxrom_plat/zpdaxrom/firmware/boot0-serial/image.ram"),
+.INIT_FILE_NAME("firmware/boot0-serial/image.ram"),
 .INIT_FILE_FORMAT("hex"))
  ebr( 
 .EBR_ADR_I(SHAREDBUS_ADR_I[31:0]),

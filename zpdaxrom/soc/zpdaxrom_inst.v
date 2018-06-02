@@ -37,7 +37,7 @@
 //
 //      Project:           zpdaxrom
 //      File:              zpdaxrom_inst.v
-//      Date:              Вс, 3 июн 2018 01:00:05 CST
+//      Date:              Вс, 3 июн 2018 01:41:59 CST
 //      Version:           2.1
 //      Targeted Family:   MachXO2
 //

@@ -224,7 +224,7 @@
             <Parm Name="ADDRESS_LOCK" Text="Lock Address" Type="Define" Value="def"/>
             <Parm Name="DISABLE" Text="Disable Component" Type="Define" Value="undef" isuse="true"/>
             <Parm ListValues="8,32" Name="WB_DAT_WIDTH" OType="Integer" Port="EBR" Text="WISHBONE Data Bus Width" Type="List" Value="32" isparm="true"/>
-            <Parm Name="INIT_FILE_NAME" OType="String" Text="Initialization File Name" Type="File" Value="C:/Users/sash/Work/tmp/zpdaxrom_plat/zpdaxrom/firmware/boot0-serial/image.ram" isparm="true"/>
+            <Parm Name="INIT_FILE_NAME" OType="String" Text="Initialization File Name" Type="File" Value="firmware/boot0-serial/image.ram" isparm="true"/>
             <Parm ListValues="hex,binary" Name="INIT_FILE_FORMAT" Text="File Format" Type="String" Value="hex" isparm="true"/>
         </Parms>
       <GUIS Columns="2" Help="component_help\lm32.htm" Name="onchipram">

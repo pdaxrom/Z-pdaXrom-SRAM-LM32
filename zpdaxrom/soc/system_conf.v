@@ -50,7 +50,7 @@
 `define LM32_I_PC_WIDTH 31
 `define ADDRESS_LOCK
 `define ebrEBR_WB_DAT_WIDTH 32
-`define ebrINIT_FILE_NAME "C:/Users/sash/Work/tmp/zpdaxrom_plat/zpdaxrom/firmware/boot0-serial/image.ram"
+`define ebrINIT_FILE_NAME "firmware/boot0-serial/image.ram"
 `define ebrINIT_FILE_FORMAT "hex"
 `define ADDRESS_LOCK
 `define sramREAD_LATENCY 1
