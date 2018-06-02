@@ -19,7 +19,7 @@
 				<BScanLen>1</BScanLen>
 				<BScanVal>0</BScanVal>
 			</Bypass>
-			<File>zpdaxrom_zpdaxrom.jed</File>
+			<File>zpdaxrom/zpdaxrom_zpdaxrom.jed</File>
 			<FileTime>06/03/18 00:32:23</FileTime>
 			<JedecChecksum>0x895E</JedecChecksum>
 			<Operation>FLASH Erase,Program,Verify</Operation>
